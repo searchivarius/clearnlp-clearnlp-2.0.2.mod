@@ -1,8 +1,7 @@
 ClearNLP (2.0.2) patched
 =============
 A patched clearnlp 2.0.2 (see info below). The patch prevents NULL-pointer exception thrown by a semantic role labeler. Modified Java files: ``clearnlp-clearnlp-2.0.2/src/main/java/com/clearnlp/component/srl/EnglishSRLabeler.java``
-and
-``clearnlp-clearnlp-2.0.2/src/main/java/com/clearnlp/dependency/DEPLibEn.java``
+and ``clearnlp-clearnlp-2.0.2/src/main/java/com/clearnlp/dependency/DEPLibEn.java``
 
 ClearNLP
 =============
